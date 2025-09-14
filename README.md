@@ -16,9 +16,7 @@ Currently exploring **cloud infrastructure**, **load balancing research**, and *
 
 ## 📌 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=GAWA.JS&theme=tokyonight)](https://github.com/RahadyanRizqy/GAWA.JS) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=GAWA.JS&theme=tokyonight)](https://github.com/RahadyanRizqy/GAWA.JS)
-
-
+[![GAWA.JS](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=GAWA.JS&theme=tokyonight)](https://github.com/RahadyanRizqy/GAWA.JS) [![ShawtyURL](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=ShawtyURL&theme=tokyonight)](https://github.com/RahadyanRizqy/ShawtyURL) [![WebsitePortfolio](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=WebsitePortfolio&theme=tokyonight)](https://github.com/RahadyanRizqy/WebsitePortfolio) [![BerburuMora](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=BerburuMora&theme=tokyonight)](https://github.com/RahadyanRizqy/BerburuMora)
 
 ## 🛠️ Tech Stack
 **Languages:**  
