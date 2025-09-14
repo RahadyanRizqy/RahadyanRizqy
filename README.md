@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Rahadyan Rizqy
 
 Welcome to my GitHub profile!  
-I enjoy building things around **backend systems**, **web automation**, **web-scraping** and **virtualization**.  
-Currently exploring **cloud infrastructure**, **load balancing research**, and **self-hosted solutions**.
+I enjoy building things around **backend systems**, **web automation**, **web-scraping** and **virtualization**.  Currently exploring **cloud infrastructure**, **load balancing research**, and **self-hosted solutions**.
 
 ---
 
