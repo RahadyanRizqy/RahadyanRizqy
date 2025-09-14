@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Rahadyan Rizqy
 
 Welcome to my GitHub profile!  
-I enjoy building things around **backend systems**, **web automation**, **web-scraping** and **virtualization**.  Currently exploring **cloud infrastructure**, **load balancing research**, and **self-hosted solutions**.
+I enjoy building things around **backend systems**, **web automation**, **web-scraping** and **virtualization**.  
+Currently exploring **cloud infrastructure**, **load balancing research**, and **self-hosted solutions**.
 
 ---
 
@@ -12,6 +13,12 @@ I enjoy building things around **backend systems**, **web automation**, **web-sc
 - 📝 Sometimes I write code just to learn how systems work under the hood
 
 ---
+
+## 📌 Featured Projects
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=GAWA.JS&theme=tokyonight)](https://github.com/RahadyanRizqy/GAWA.JS) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=GAWA.JS&theme=tokyonight)](https://github.com/RahadyanRizqy/GAWA.JS)
+
+
 
 ## 🛠️ Tech Stack
 **Languages:**  
