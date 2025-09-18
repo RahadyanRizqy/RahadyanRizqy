@@ -13,10 +13,6 @@ I enjoy building things around **backend systems**, **web automation**, **web-sc
 
 ---
 
-## 📌 Featured Projects
-
-[![GAWA.JS](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=GAWA.JS&theme=tokyonight)](https://github.com/RahadyanRizqy/GAWA.JS) [![ShawtyURL](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=ShawtyURL&theme=tokyonight)](https://github.com/RahadyanRizqy/ShawtyURL) [![WebsitePortfolio](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=WebsitePortfolio&theme=tokyonight)](https://github.com/RahadyanRizqy/WebsitePortfolio) [![BerburuMora](https://github-readme-stats.vercel.app/api/pin/?username=RahadyanRizqy&repo=BerburuMora&theme=tokyonight)](https://github.com/RahadyanRizqy/BerburuMora)
-
 ## 🛠️ Tech Stack
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
